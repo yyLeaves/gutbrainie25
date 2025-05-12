@@ -12,5 +12,9 @@
 
 # Tokenized dataset
 `train_tokenized_dataset_seperate`: basic train dataset
+
 `train_tokenized_dataset_seperate_aug`: augmented training dataset
+
 `infer_tokenized_dataset`: inference for test set
+
+`train_tokenized_dataset_no_bronze`: retrain model with good quality data only (run4)
